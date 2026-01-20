@@ -1,0 +1,5 @@
+.coach_app/
+.venv/
+env/
+__pycache__/
+*.pyc

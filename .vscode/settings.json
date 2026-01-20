@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": ".coach_app/bin/python",
+"python.terminal.activateEnvironment": true,
+"python-envs.pythonProjects": []
+}

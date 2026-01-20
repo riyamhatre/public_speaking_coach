@@ -1,0 +1,7 @@
+openai
+whisper
+sounddevice
+scipy
+tensorflow
+numpy
+mcp
